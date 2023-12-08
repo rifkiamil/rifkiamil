@@ -6,7 +6,7 @@
 - 💞️ I’m teaching as a Google Developer Expert, I teach and educate minorities and marginalised groups on Data, SQL & Google BigQuery using sports and blockchain data with the support of Google.
 - 📫 How to reach me ... @rifkiamil on twitter or email rif atsymbol kiamil.com
 
-<!---
+<!---test
 rifkiamil/rifkiamil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
